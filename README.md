@@ -24,6 +24,9 @@ The repository includes the following files and folders:
       - `Binaries/`
       - `GlobalShaderCache-PCD3D_SM5.bin`
       - `GlobalShaderCache-PCD3D_SM6.bin`
+- **Playing via Unreal Engine.mp4** (Screen recording of playing the game via Unreal Engine with a quick tour of the game environment.)
+- **Playing via Application.mp4** (Screen recording of playing the game via RacingGameCourse.exe present under the Windows folder.)
+
 
 ## How to Play
 To play the game, follow these steps:
