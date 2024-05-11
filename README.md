@@ -1,9 +1,10 @@
 # My Unreal Engine Game Project
 
-Welcome to the Unreal Engine Game Project repository! This repository contains the files necessary to play a hyper-realistic car racing game developed using Unreal Engine 5.
+Welcome to the Unreal Engine Game Project repository! This repository contains the files necessary to play a hyper-realistic car racing game developed using Unreal Engine 5. Unfortunately, Github doesn't have enough space to store huge files that are required to play the car racing game. So, all the required files including the screen-recording of playing car racing game is available on Mega Cloud. The link is: https://mega.nz/folder/2lcwiYKa#J6GAX9dfHZePQo0DdYQbkw
+
 
 ## Contents
-The repository includes the following files and folders:
+The project on Mega Cloud whose link is shared above includes the following files and folders:
 
 - **Game/**
   - **Windows/**
